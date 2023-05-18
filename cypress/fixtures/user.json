@@ -1,0 +1,22 @@
+{
+  "new_user": {
+    "name": "newusertesting123",
+    "email": "newuser@123123.com",
+    "password": "Strongpassword1234"
+  },
+  "valid_user": {
+    "name": "teste8897877",
+    "email": "johndoestest@gmail.com",
+    "password": "Strongpassword1234"
+  },
+  "empty_user": {
+    "name": "",
+    "email": "",
+    "password": ""
+  },
+  "invalid_user": {
+    "name": "invalidusername87897879",
+    "email": "invalidemail84123432484823442394492344",
+    "password": "invalidpass12312344123"
+  }
+}
